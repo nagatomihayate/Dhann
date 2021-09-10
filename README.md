@@ -29,7 +29,6 @@
       <div class="container">
         <h2 class="section-title section-title--keycolor section-title--story">ストーリー</h2>
         <div class="story">
-          <p class="text-center">こんにちわ国立電機学園・・・<br>
           <p class="text-center">ここは国立電機学園・・・<br>
             学校の設備がLOTによって管理されており、IT関連の勉強をしにくる生徒も多い…<br>
             だがしかしッ！それは表の顔…裏の顔は天才ホワイトハッカー組織「カタクリズム」のために作られた学校だったッ！<br>
@@ -37,19 +36,20 @@
             ーとある昼下がりー<br>
             生徒たちは何の変哲もない日々を過ごしていた…<br>
             すると突然！電気が消え、ドアに鍵がかかったッ！<br>
-            どうする、我らの「カタクリズム」ッ！
-            さらにドアの前に画面とキーボードが。どうやら暗号を入力しろということらしい。</p>
+            どうする、我らの「カタクリズム」ッ！！<br>
+          さらにドアの前に画面とキーボードが。どうやら暗号を入力しろということらしい。</p>
           <div class="story__note__outer bg-color--gray">
             <ul class="story__note">
-              <li>今、これを読んだ生徒会メンバー以外を呼んではいけない</li>
               <li>30分を超えるとS先生は出てこられない</li>
           <div class="story__note__outer bg-color--gray">
             <ul class="story__note">
               <li>今、これを読んだ生徒会メンバー以外を呼んではいけない</li>
               <li>30分を超えるとS先生は出てこられない</li>
+             <li>今、これを読んだ生徒会メンバー以外を呼んではいけない</li>
+             <li>30分を超えるとS先生は出てこられない</li>
             </ul>
           </div>
-          <p class="text-center">いつの間にか、タイマーが起動した。29:58、29:57・・・急がなきゃ。<br>
+          <p class="text-center">学校から解放せよ！！<br>
             まずはこの暗号を解かなくては！</p>
         </div>
       </div>
